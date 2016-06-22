@@ -1,4 +1,3 @@
-console.log('v1')
 (function(WINDOW, NAVIGATOR, CLIENTIS, ver, os, i, list){
   WINDOW[CLIENTIS] = function(useragent, phantomDetect) {
     if (!useragent) {
