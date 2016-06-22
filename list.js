@@ -71,7 +71,6 @@ module.exports = [
     'verifier',
     'verify',
     'warez',
-    'web[-\\s]?search',
     'webinator',
     'worth',
     'yahoo',
@@ -79,6 +78,6 @@ module.exports = [
     'download',
     'appie',
     'curl',
-    'pinterest/',
+    'pinterest',
     'slurp',
 ];

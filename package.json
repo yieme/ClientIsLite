@@ -1,6 +1,6 @@
 {
   "name": "ClientIsLite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Basic client OS detection with bot/crawler/spider support",
   "main": "index.js",
   "scripts": {
