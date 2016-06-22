@@ -1,0 +1,31 @@
+{
+  "name": "clientislite",
+  "version": "0.1.0",
+  "description": "Basic client OS detection with bot/crawler/spider support",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yieme/clientislite"
+  },
+  "keywords": [
+    "bot",
+    "crawlers",
+    "spiders",
+    "googlebot",
+    "useragent"
+  ],
+  "author": "Yieme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yieme/clientislite/issues"
+  },
+  "homepage": "https://github.com/yieme/clientislite",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  }
+}
